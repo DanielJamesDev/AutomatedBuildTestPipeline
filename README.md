@@ -1,6 +1,6 @@
 # Automated Build & Test Pipeline with Realistic Demo
 
-[![CI](https://github.com/YourUsername/AutomatedBuildTestPipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/YourUsername/AutomatedBuildTestPipeline/actions/workflows/ci.yml)
+[![CI](https://github.com/DanielJamesDev/AutomatedBuildTestPipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/YourUsername/AutomatedBuildTestPipeline/actions/workflows/ci.yml)
 
 ## Overview
 This project demonstrates a professional software workflow for modular components. It includes a Python module that validates numeric sensor data, unit tests verifying correctness and handling edge cases, a demo script showing realistic input and generating output artifacts, and an automated CI/CD pipeline using GitHub Actions. The repository highlights both **technical skill** and **engineering discipline**, key requirements for software/system engineering roles.
