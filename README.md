@@ -52,8 +52,7 @@ pytest
 
 
 ## Author
-**Daniel J. Farley**  
-Programmer / Analyst | Portfolio Artifact  
-dfarley78@gmail.com
+**Daniel J.**  
+Programmer / Analyst | Portfolio Artifact 
 
 
